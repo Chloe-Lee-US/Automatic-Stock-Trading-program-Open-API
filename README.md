@@ -20,8 +20,8 @@ _💎 HyangWon Lee(Chloe)_
 ## Development Environment
 | subject | Name |
 | ------ | --------- |
-| Environment | ![image](https://user-images.githubusercontent.com/97338449/172738347-c49523ef-1287-4e05-9177-aeec64245089.png) |
-| Servers | ![image](https://user-images.githubusercontent.com/97338449/172738509-674e8bf4-d3aa-4079-8b3a-6c8b8b0eeb36.png) |
+| Environment | ![image](https://user-images.githubusercontent.com/97338449/172806235-97b85222-b2a7-494b-aacc-54e7abf7d779.png) |
+| anguage | ![image](https://user-images.githubusercontent.com/97338449/172806764-68a8cd2a-b130-408c-8e77-be2bcde419b7.png) |
 | API | ![image](https://user-images.githubusercontent.com/97338449/172738234-9297c51a-c02f-4faa-bc3c-fb9a12d34ee0.png) |
 
 　    
